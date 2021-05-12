@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:0 channelId="2599" , SPORTV
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+#EXTINF:0 channelId="2599" , SPORTV
+http://178.162.205.101:8081/loadbalance/slv0/playlist.m3u8
+#EXTINF:0 channelId="2599" , SPORTV
+http://213.163.65.116:8081/live/sportv/playlist.m3u8
+#EXTINF:0 channelId="2599" , SPORTV
+http://213.163.71.139:8081/live/sportv/playlist.m3u8
+#EXTINF:0 channelId="2897" , SPORTV HD
+http://streamup.global.ssl.fastly.net:80/app/gptvs-stream/live.m3u8
+#EXTINF:0 channelId="2897" , SPORTV HD
+http://video-cdn.streamup.com:80/app/gptvs-stream/live.m3u8
+#EXTINF:0 channelId="2600" , SPORTV 2
+http://31.204.128.112:8081/live/sportv2/playlist.m3u8
+#EXTINF:0 channelId="2600" , SPORTV 2
+http://178.162.205.101:8081/loadbalance/slv2/playlist.m3u8
+#EXTINF:0 channelId="2600" , SPORTV 2
+http://213.163.65.116:8081/live/sportv2/playlist.m3u8
+#EXTINF:0 channelId="2600" , SPORTV 2
+http://213.163.71.139:8081/live/sportv2/playlist.m3u8
+#EXTINF:0 channelId="2601" , SPORTV 3
+http://178.162.205.101:8081/loadbalance/slv3/playlist.m3u8
+#EXTINF:0 channelId="-1" , SUPERNATURAL
+http://212.129.30.215:1935/supernatural/supernatural/live.m3u8
+#EXTINF:0 channelId="-1" , THE BIG BANG THEORY
+http://212.129.30.215:1935/thebigbang/thebigbang/live.m3u8
+#EXTINF:0 channelId="2540" , ESPN
+http://200.76.77.237:80/LIVE/H01/CANAL558/PROFILE03.m3u8?%2f.ts
+#EXTINF:0 channelId="-1" , ESPN 2
+http://200.76.77.237:80/LIVE/H01/CANAL561/PROFILE03.m3u8?%2f.ts
+#EXTINF:0 channelId="-1" , ESPN 3
+http://200.76.77.237:80/LIVE/H01/CANAL520/PROFILE03.m3u8?%2f.ts
+#EXTINF:0 channelId="-1" , ESPN+
+http://200.76.77.237:80/LIVE/H01/CANAL516/PROFILE03.m3u8?%2f.ts
+#EXTINF:0 channelId="2596" , PREMIERE
+http://178.162.205.101:8081/loadbalance/futebol/playlist.m3u8
+#EXTINF:0 channelId="-1" , PREMIERE 1
+http://178.162.205.101:8081/loadbalance/bfr1/playlist.m3u8
+#EXTINF:0 channelId="-1" , PREMIERE 2
+http://178.162.205.101:8081/loadbalance/bfr2/playlist.m3u8
+#EXTINF:0 channelId="-1" , PREMIERE 3
+http://178.162.205.101:8081/loadbalance/brf3/playlist.m3u8
+#EXTINF:0 channelId="2595" , COMBATE
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+#EXTINF:0 channelId="-1" , COMBATE HD
+http://streamup.global.ssl.fastly.net:80/app/aiucard-trevor-belmonts-stream/live.m3u8
+#EXTINF:0 channelId="40" , CARTOON NETWORK
+http://213.163.65.116:8081/live/cartoon/playlist.m3u8
+#EXTINF:0 channelId="40" , CARTOON NETWORK
+http://213.163.71.139:8081/live/cartoon/playlist.m3u8
+#EXTINF:-1 channelId="-1" , ESPN Brasil
+http://31.204.128.112:8081/live/espnbr/chunks.m3u8
